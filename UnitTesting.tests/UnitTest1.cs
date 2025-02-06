@@ -1,4 +1,4 @@
-namespace WeerstandsCalculator.tests;
+namespace UnitTesting.tests;
 
 [TestClass]
 public class UnitTest1

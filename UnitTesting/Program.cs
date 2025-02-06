@@ -1,4 +1,4 @@
-﻿using WeerstandsCalculator.library;
+﻿using UnitTesting.library;
 internal class Program
 {
     private static void Main(string[] args)

@@ -1,4 +1,4 @@
-﻿namespace WeerstandsCalculator.library
+﻿namespace UnitTesting.library
 {
     public class Weerstand
     {

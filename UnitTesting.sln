@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeerstandsCalculator", "WeerstandsCalculator\WeerstandsCalculator.csproj", "{97960E08-BDEF-4062-AD16-163BEBA62A02}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting", "UnitTesting\UnitTesting.csproj", "{97960E08-BDEF-4062-AD16-163BEBA62A02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeerstandsCalculator.tests", "WeerstandsCalculator.tests\WeerstandsCalculator.tests.csproj", "{3233A0CF-B9FA-4E37-AAB0-1583E0A168B4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting.tests", "UnitTesting.tests\UnitTesting.tests.csproj", "{3233A0CF-B9FA-4E37-AAB0-1583E0A168B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeerstandsCalculator.library", "WeerstandsCalculator.library\WeerstandsCalculator.library.csproj", "{A4BCBF5E-BD30-4735-BE54-35DF46BF49FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting.library", "UnitTesting.library\UnitTesting.library.csproj", "{A4BCBF5E-BD30-4735-BE54-35DF46BF49FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

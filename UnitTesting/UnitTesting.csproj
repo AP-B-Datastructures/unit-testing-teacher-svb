@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\WeerstandsCalculator.library\WeerstandsCalculator.library.csproj" />
+    <ProjectReference Include="..\UnitTesting.library\UnitTesting.library.csproj" />
   </ItemGroup>
 
 </Project>

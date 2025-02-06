@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Stack.library\WeerstandsCalculator.library.csproj" />
+    <ProjectReference Include="..\Stack.library\UnitTesting.library.csproj" />
   </ItemGroup>
 
 </Project>
