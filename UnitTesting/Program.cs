@@ -3,6 +3,10 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+    }
+
+    public static void BerekenWeerstand()
+    { 
         while (true)
         {
             Kleur ring1, ring2, ring3;
