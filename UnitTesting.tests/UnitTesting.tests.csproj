@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Stack.library\UnitTesting.library.csproj" />
+    <ProjectReference Include="../UnitTesting.library/UnitTesting.library.csproj" />
   </ItemGroup>
 
 </Project>
